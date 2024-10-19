@@ -1,0 +1,31 @@
+body {
+    background-color: #f0f0f0;
+}
+#homeUI {
+    margin-top: 5%;
+}
+#sectiontitle {
+    display: inline-block;
+}
+
+.border {
+    border-width:2.5px !important;
+}
+
+.fa-piggy-bank{
+    color: #ff9a9a;
+}
+
+.fa-coins {
+    color: rgb(0, 108, 0);
+}
+
+.fa-cc-mastercard{
+    color: linear-gradient(#e66465, #9198e5);
+}
+
+/* .fa-gradient {
+	background: -webkit-gradient(linear, left top, left bottom, from(#f00), to(#333));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+} */
