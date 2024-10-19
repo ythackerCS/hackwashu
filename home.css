@@ -19,13 +19,11 @@ body {
 .fa-coins {
     color: rgb(0, 108, 0);
 }
-
-.fa-cc-mastercard{
-    color: linear-gradient(#e66465, #9198e5);
+#profile{
+    display: inline-block;
+    border-radius: 100px;
+    border-width:2.5px;
+    border-color: red;
+    box-shadow: 0 0 2px rgb(223, 226, 230);
+    padding: 1.6em 2.0em;
 }
-
-/* .fa-gradient {
-	background: -webkit-gradient(linear, left top, left bottom, from(#f00), to(#333));
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-} */
